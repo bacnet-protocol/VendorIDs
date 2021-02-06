@@ -184,12 +184,16 @@
   {
     "vendorID": 36,
     "registeredName": "Tridium Inc.",
-    "associatedNames": []
+    "associatedNames": [
+        "Tridium"
+	]
   },
   {
     "vendorID": 37,
     "registeredName": "Sierra Monitor Corporation/FieldServer Technologies",
-    "associatedNames": []
+    "associatedNames": [
+        "FieldServer Technologies"
+	]
   },
   {
     "vendorID": 38,
@@ -269,7 +273,9 @@
   {
     "vendorID": 53,
     "registeredName": "DAIKIN Industries Ltd.",
-    "associatedNames": []
+    "associatedNames": [
+        "DAIKIN Industries LTD"
+  ]
   },
   {
     "vendorID": 54,
@@ -1214,7 +1220,9 @@
   {
     "vendorID": 243,
     "registeredName": "Paragon Controls, Inc.",
-    "associatedNames": []
+    "associatedNames": [
+        "Paragon Controls Inc."
+    ]
   },
   {
     "vendorID": 244,
