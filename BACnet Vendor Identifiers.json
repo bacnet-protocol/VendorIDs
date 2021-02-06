@@ -1,0 +1,5394 @@
+[
+  {
+    "vendorID": 0,
+    "registeredName": "ASHRAE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1,
+    "registeredName": "NIST",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 2,
+    "registeredName": "The Trane Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 3,
+    "registeredName": "McQuay International",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 4,
+    "registeredName": "PolarSoft",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 5,
+    "registeredName": "Johnson Controls, Inc.",
+    "associatedNames": [
+      "JCI"
+    ]
+  },
+  {
+    "vendorID": 6,
+    "registeredName": "American Auto-Matrix",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 7,
+    "registeredName": "Siemens Building Technologies, Ltd., Landis \u0026 Staefa Division Europe",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 8,
+    "registeredName": "Delta Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 9,
+    "registeredName": "Siemens Building Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 10,
+    "registeredName": "Tour Andover Controls Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 11,
+    "registeredName": "TAC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 12,
+    "registeredName": "Orion Analysis Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 13,
+    "registeredName": "Teletrol Systems Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 14,
+    "registeredName": "Cimetrics Technology",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 15,
+    "registeredName": "Cornell University",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 16,
+    "registeredName": "United Technologies Carrier",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 17,
+    "registeredName": "Honeywell Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 18,
+    "registeredName": "Alerton / Honeywell",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 19,
+    "registeredName": "TAC AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 20,
+    "registeredName": "Hewlett-Packard Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 21,
+    "registeredName": "Dorsette\u0027s Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 22,
+    "registeredName": "Cerberus AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 23,
+    "registeredName": "York Controls Group",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 24,
+    "registeredName": "Automated Logic Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 25,
+    "registeredName": "CSI Control Systems International",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 26,
+    "registeredName": "Phoenix Controls Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 27,
+    "registeredName": "Innovex Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 28,
+    "registeredName": "KMC Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 29,
+    "registeredName": "Xn Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 30,
+    "registeredName": "Hyundai Information Technology Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 31,
+    "registeredName": "Tokimec Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 32,
+    "registeredName": "Simplex",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 33,
+    "registeredName": "North Building Technologies Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 34,
+    "registeredName": "Notifier",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 35,
+    "registeredName": "Reliable Controls Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 36,
+    "registeredName": "Tridium Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 37,
+    "registeredName": "Sierra Monitor Corporation/FieldServer Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 38,
+    "registeredName": "Silicon Energy",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 39,
+    "registeredName": "Kieback \u0026 Peter GmbH \u0026 Co KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 40,
+    "registeredName": "Anacon Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 41,
+    "registeredName": "Systems Controls \u0026 Instruments, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 42,
+    "registeredName": "Lithonia Lighting",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 43,
+    "registeredName": "Micropower Manufacturing",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 44,
+    "registeredName": "Matrix Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 45,
+    "registeredName": "METALAIRE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 46,
+    "registeredName": "ESS Engineering",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 47,
+    "registeredName": "Sphere Systems Pty Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 48,
+    "registeredName": "Walker Technologies Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 49,
+    "registeredName": "H I Solutions, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 50,
+    "registeredName": "MBS GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 51,
+    "registeredName": "SAMSON AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 52,
+    "registeredName": "Badger Meter Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 53,
+    "registeredName": "DAIKIN Industries Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 54,
+    "registeredName": "NARA Controls Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 55,
+    "registeredName": "Mammoth Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 56,
+    "registeredName": "Liebert Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 57,
+    "registeredName": "SEMCO Incorporated",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 58,
+    "registeredName": "Air Monitor Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 59,
+    "registeredName": "TRIATEK, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 60,
+    "registeredName": "NexLight",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 61,
+    "registeredName": "Multistack",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 62,
+    "registeredName": "TSI Incorporated",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 63,
+    "registeredName": "Weather-Rite, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 64,
+    "registeredName": "Dunham-Bush",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 65,
+    "registeredName": "Reliance Electric",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 66,
+    "registeredName": "LCS Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 67,
+    "registeredName": "Regulator Australia PTY Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 68,
+    "registeredName": "Touch-Plate Lighting Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 69,
+    "registeredName": "Amann GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 70,
+    "registeredName": "RLE Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 71,
+    "registeredName": "Cardkey Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 72,
+    "registeredName": "SECOM Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 73,
+    "registeredName": "ABB Geb\u00C3\u00A4udetechnik AG Bereich NetServ",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 74,
+    "registeredName": "KNX Association cvba",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 75,
+    "registeredName": "Institute of Electrical Installation Engineers of Japan (IEIEJ)",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 76,
+    "registeredName": "Nohmi Bosai, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 77,
+    "registeredName": "Carel S.p.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 78,
+    "registeredName": "AirSense Technology, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 79,
+    "registeredName": "Hochiki Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 80,
+    "registeredName": "Fr. Sauter AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 81,
+    "registeredName": "Matsushita Electric Works, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 82,
+    "registeredName": "Mitsubishi Electric Corporation, Inazawa Works",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 83,
+    "registeredName": "Mitsubishi Heavy Industries, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 84,
+    "registeredName": "ITT Bell \u0026 Gossett",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 85,
+    "registeredName": "Yamatake Building Systems Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 86,
+    "registeredName": "The Watt Stopper, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 87,
+    "registeredName": "Aichi Tokei Denki Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 88,
+    "registeredName": "Activation Technologies, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 89,
+    "registeredName": "Saia-Burgess Controls, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 90,
+    "registeredName": "Hitachi, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 91,
+    "registeredName": "Novar Corp./Trend Control Systems Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 92,
+    "registeredName": "Mitsubishi Electric Lighting Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 93,
+    "registeredName": "Argus Control Systems, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 94,
+    "registeredName": "Kyuki Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 95,
+    "registeredName": "Richards-Zeta Building Intelligence, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 96,
+    "registeredName": "Scientech R\u0026D, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 97,
+    "registeredName": "VCI Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 98,
+    "registeredName": "Toshiba Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 99,
+    "registeredName": "Mitsubishi Electric Corporation Air Conditioning \u0026 Refrigeration Systems Works",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 100,
+    "registeredName": "Custom Mechanical Equipment, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 101,
+    "registeredName": "ClimateMaster",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 102,
+    "registeredName": "ICP Panel-Tec, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 103,
+    "registeredName": "D-Tek Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 104,
+    "registeredName": "NEC Engineering, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 105,
+    "registeredName": "PRIVA BV",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 106,
+    "registeredName": "Meidensha Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 107,
+    "registeredName": "JCI Systems Integration Services",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 108,
+    "registeredName": "Freedom Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 109,
+    "registeredName": "Neuberger Geb\u00C3\u00A4udeautomation GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 110,
+    "registeredName": "Sitronix",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 111,
+    "registeredName": "Leviton Manufacturing",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 112,
+    "registeredName": "Fujitsu Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 113,
+    "registeredName": "Emerson Network Power",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 114,
+    "registeredName": "S. A. Armstrong, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 115,
+    "registeredName": "Visonet AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 116,
+    "registeredName": "M\u0026M Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 117,
+    "registeredName": "Custom Software Engineering",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 118,
+    "registeredName": "Nittan Company, Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 119,
+    "registeredName": "Elutions Inc. (Wizcon Systems SAS)",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 120,
+    "registeredName": "Pacom Systems Pty., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 121,
+    "registeredName": "Unico, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 122,
+    "registeredName": "Ebtron, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 123,
+    "registeredName": "Scada Engine",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 124,
+    "registeredName": "AC Technology Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 125,
+    "registeredName": "Eagle Technology",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 126,
+    "registeredName": "Data Aire, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 127,
+    "registeredName": "ABB, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 128,
+    "registeredName": "Transbit Sp. z o. o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 129,
+    "registeredName": "Toshiba Carrier Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 130,
+    "registeredName": "Shenzhen Junzhi Hi-Tech Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 131,
+    "registeredName": "Tokai Soft",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 132,
+    "registeredName": "Blue Ridge Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 133,
+    "registeredName": "Veris Industries",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 134,
+    "registeredName": "Centaurus Prime",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 135,
+    "registeredName": "Sand Network Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 136,
+    "registeredName": "Regulvar, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 137,
+    "registeredName": "AFDtek Division of Fastek International Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 138,
+    "registeredName": "PowerCold Comfort Air Solutions, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 139,
+    "registeredName": "I Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 140,
+    "registeredName": "Viconics Electronics, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 141,
+    "registeredName": "Yaskawa America, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 142,
+    "registeredName": "DEOS control systems GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 143,
+    "registeredName": "Digitale Mess- und Steuersysteme AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 144,
+    "registeredName": "Fujitsu General Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 145,
+    "registeredName": "Project Engineering S.r.l.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 146,
+    "registeredName": "Sanyo Electric Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 147,
+    "registeredName": "Integrated Information Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 148,
+    "registeredName": "Temco Controls, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 149,
+    "registeredName": "Airtek International Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 150,
+    "registeredName": "Advantech Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 151,
+    "registeredName": "Titan Products, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 152,
+    "registeredName": "Regel Partners",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 153,
+    "registeredName": "National Environmental Product",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 154,
+    "registeredName": "Unitec Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 155,
+    "registeredName": "Kanden Engineering Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 156,
+    "registeredName": "Messner Geb\u00C3\u00A4udetechnik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 157,
+    "registeredName": "Integrated.CH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 158,
+    "registeredName": "EH Price Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 159,
+    "registeredName": "SE-Elektronic GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 160,
+    "registeredName": "Rockwell Automation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 161,
+    "registeredName": "Enflex Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 162,
+    "registeredName": "ASI Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 163,
+    "registeredName": "SysMik GmbH Dresden",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 164,
+    "registeredName": "HSC Regelungstechnik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 165,
+    "registeredName": "Smart Temp Australia Pty.  Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 166,
+    "registeredName": "Cooper Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 167,
+    "registeredName": "Duksan Mecasys Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 168,
+    "registeredName": "Fuji IT Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 169,
+    "registeredName": "Vacon Plc",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 170,
+    "registeredName": "Leader Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 171,
+    "registeredName": "Cylon Controls, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 172,
+    "registeredName": "Compas",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 173,
+    "registeredName": "Mitsubishi Electric Building Techno-Service Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 174,
+    "registeredName": "Building Control Integrators",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 175,
+    "registeredName": "ITG Worldwide (M) Sdn Bhd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 176,
+    "registeredName": "Lutron Electronics Co., Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 178,
+    "registeredName": "LOYTEC Electronics GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 179,
+    "registeredName": "ProLon",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 180,
+    "registeredName": "Mega Controls Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 181,
+    "registeredName": "Micro Control Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 182,
+    "registeredName": "Kiyon, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 183,
+    "registeredName": "Dust Networks",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 184,
+    "registeredName": "Advanced Building Automation Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 185,
+    "registeredName": "Hermos AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 186,
+    "registeredName": "CEZIM",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 187,
+    "registeredName": "Softing",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 188,
+    "registeredName": "Lynxspring",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 189,
+    "registeredName": "Schneider Toshiba Inverter Europe",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 190,
+    "registeredName": "Danfoss Drives A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 191,
+    "registeredName": "Eaton Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 192,
+    "registeredName": "Matyca S.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 193,
+    "registeredName": "Botech AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 194,
+    "registeredName": "Noveo, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 195,
+    "registeredName": "AMEV",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 196,
+    "registeredName": "Yokogawa Electric Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 197,
+    "registeredName": "GFR Gesellschaft f\u00C3\u00BCr Regelungstechnik",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 198,
+    "registeredName": "Exact Logic",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 199,
+    "registeredName": "Mass Electronics Pty Ltd dba Innotech Control Systems Australia",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 200,
+    "registeredName": "Kandenko Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 201,
+    "registeredName": "DTF, Daten-Technik Fries",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 202,
+    "registeredName": "Klimasoft, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 203,
+    "registeredName": "Toshiba Schneider Inverter Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 204,
+    "registeredName": "Control Applications, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 205,
+    "registeredName": "KDT Systems Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 206,
+    "registeredName": "Onicon Incorporated",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 207,
+    "registeredName": "Automation Displays, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 208,
+    "registeredName": "Control Solutions, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 209,
+    "registeredName": "Remsdaq Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 210,
+    "registeredName": "NTT Facilities, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 211,
+    "registeredName": "VIPA GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 212,
+    "registeredName": "TSC21 Association of Japan",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 213,
+    "registeredName": "Strato Automation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 214,
+    "registeredName": "HRW Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 215,
+    "registeredName": "Lighting Control \u0026 Design, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 216,
+    "registeredName": "Mercy Electronic and Electrical Industries",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 217,
+    "registeredName": "Samsung SDS Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 218,
+    "registeredName": "Impact Facility Solutions, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 219,
+    "registeredName": "Aircuity",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 220,
+    "registeredName": "Control Techniques, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 221,
+    "registeredName": "OpenGeneral Pty., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 222,
+    "registeredName": "WAGO Kontakttechnik GmbH \u0026 Co. KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 223,
+    "registeredName": "Cerus Industrial",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 224,
+    "registeredName": "Chloride Power Protection Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 225,
+    "registeredName": "Computrols, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 226,
+    "registeredName": "Phoenix Contact GmbH \u0026 Co. KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 227,
+    "registeredName": "Grundfos Management A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 228,
+    "registeredName": "Ridder Drive Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 229,
+    "registeredName": "Soft Device SDN BHD",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 230,
+    "registeredName": "Integrated Control Technology Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 231,
+    "registeredName": "AIRxpert Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 232,
+    "registeredName": "Microtrol Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 233,
+    "registeredName": "Red Lion Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 234,
+    "registeredName": "Digital Electronics Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 235,
+    "registeredName": "Ennovatis GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 236,
+    "registeredName": "Serotonin Software Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 237,
+    "registeredName": "LS Industrial Systems Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 238,
+    "registeredName": "Square D Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 239,
+    "registeredName": "S Squared Innovations, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 240,
+    "registeredName": "Aricent Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 241,
+    "registeredName": "EtherMetrics, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 242,
+    "registeredName": "Industrial Control Communications, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 243,
+    "registeredName": "Paragon Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 244,
+    "registeredName": "A. O. Smith Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 245,
+    "registeredName": "Contemporary Control Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 246,
+    "registeredName": "Intesis Software SL",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 247,
+    "registeredName": "Ingenieurgesellschaft N. Hartleb mbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 248,
+    "registeredName": "Heat-Timer Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 249,
+    "registeredName": "Ingrasys Technology, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 250,
+    "registeredName": "Costerm Building Automation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 251,
+    "registeredName": "WILO SE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 252,
+    "registeredName": "Embedia Technologies Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 253,
+    "registeredName": "Technilog",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 254,
+    "registeredName": "HR Controls Ltd. \u0026 Co. KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 255,
+    "registeredName": "Lennox International, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 256,
+    "registeredName": "RK-Tec Rauchklappen-Steuerungssysteme GmbH \u0026 Co. KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 257,
+    "registeredName": "Thermomax, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 258,
+    "registeredName": "ELCON Electronic Control, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 259,
+    "registeredName": "Larmia Control AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 260,
+    "registeredName": "BACnet Stack at SourceForge",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 261,
+    "registeredName": "G4S Security Services A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 262,
+    "registeredName": "Exor International S.p.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 263,
+    "registeredName": "Cristal Controles",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 264,
+    "registeredName": "Regin AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 265,
+    "registeredName": "Dimension Software, Inc. ",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 266,
+    "registeredName": "SynapSense Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 267,
+    "registeredName": "Beijing Nantree Electronic Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 268,
+    "registeredName": "Camus Hydronics Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 269,
+    "registeredName": "Kawasaki Heavy Industries, Ltd. ",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 270,
+    "registeredName": "Critical Environment Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 271,
+    "registeredName": "ILSHIN IBS Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 272,
+    "registeredName": "ELESTA Energy Control AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 273,
+    "registeredName": "KROPMAN Installatietechniek",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 274,
+    "registeredName": "Baldor Electric Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 275,
+    "registeredName": "INGA mbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 276,
+    "registeredName": "GE Consumer \u0026 Industrial",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 277,
+    "registeredName": "Functional Devices, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 278,
+    "registeredName": "ESAC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 279,
+    "registeredName": "M-System Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 280,
+    "registeredName": "Yokota Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 281,
+    "registeredName": "Hitranse Technology Co., LTD",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 282,
+    "registeredName": "Federspiel Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 283,
+    "registeredName": "Kele, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 284,
+    "registeredName": "Opera Electronics, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 285,
+    "registeredName": "Gentec",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 286,
+    "registeredName": "Embedded Science Labs, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 287,
+    "registeredName": "Parker Hannifin Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 288,
+    "registeredName": "MaCaPS International Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 289,
+    "registeredName": "Link4 Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 290,
+    "registeredName": "Romutec Steuer-u. Regelsysteme GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 291,
+    "registeredName": "Pribusin, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 292,
+    "registeredName": "Advantage Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 293,
+    "registeredName": "Critical Room Control",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 294,
+    "registeredName": "LEGRAND",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 295,
+    "registeredName": "Tongdy Control Technology Co., Ltd. ",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 296,
+    "registeredName": "ISSARO Integrierte Systemtechnik",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 297,
+    "registeredName": "Pro-Dev Industries",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 298,
+    "registeredName": "DRI-STEEM",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 299,
+    "registeredName": "Creative Electronic GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 300,
+    "registeredName": "Swegon AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 301,
+    "registeredName": "Jan Brachacek",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 302,
+    "registeredName": "Hitachi Appliances, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 303,
+    "registeredName": "Real Time Automation, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 304,
+    "registeredName": "ITEC Hankyu-Hanshin Co.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 305,
+    "registeredName": "Cyrus E\u0026M Engineering Co., Ltd. ",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 306,
+    "registeredName": "Racine Federated, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 307,
+    "registeredName": "Cirrascale Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 308,
+    "registeredName": "Elesta GmbH Building Automation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 309,
+    "registeredName": "Securiton",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 310,
+    "registeredName": "OSlsoft, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 311,
+    "registeredName": "Hanazeder Electronic GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 312,
+    "registeredName": "Honeywell Security Deutschland, Novar GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 313,
+    "registeredName": "Siemens Energy \u0026 Automation, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 314,
+    "registeredName": "ETM Professional Control GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 315,
+    "registeredName": "Meitav-tec, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 316,
+    "registeredName": "Janitza Electronics GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 317,
+    "registeredName": "MKS Nordhausen",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 318,
+    "registeredName": "De Gier Drive Systems B.V.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 319,
+    "registeredName": "Cypress Envirosystems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 320,
+    "registeredName": "SMARTron s.r.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 321,
+    "registeredName": "Verari Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 322,
+    "registeredName": "K-W Electronic Service, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 323,
+    "registeredName": "ALFA-SMART Energy Management",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 324,
+    "registeredName": "Telkonet, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 325,
+    "registeredName": "Securiton GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 326,
+    "registeredName": "Cemtrex, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 327,
+    "registeredName": "Performance Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 328,
+    "registeredName": "Xtralis (Aust) Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 329,
+    "registeredName": "TROX GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 330,
+    "registeredName": "Beijing Hysine Technology Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 331,
+    "registeredName": "RCK Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 332,
+    "registeredName": "Distech Controls SAS",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 333,
+    "registeredName": "Novar/Honeywell",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 334,
+    "registeredName": "The S4 Group, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 335,
+    "registeredName": "Schneider Electric",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 336,
+    "registeredName": "LHA Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 337,
+    "registeredName": "GHM engineering Group, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 338,
+    "registeredName": "Cllimalux S.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 339,
+    "registeredName": "VAISALA Oyj",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 340,
+    "registeredName": "COMPLEX (Beijing) Technology, Co., LTD.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 341,
+    "registeredName": "SCADAmetrics",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 342,
+    "registeredName": "POWERPEG NSI Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 343,
+    "registeredName": "BACnet Interoperability Testing Services, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 344,
+    "registeredName": "Teco a.s.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 345,
+    "registeredName": "Plexus Technology, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 346,
+    "registeredName": "Energy Focus, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 347,
+    "registeredName": "Powersmiths International Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 348,
+    "registeredName": "Nichibei Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 349,
+    "registeredName": "HKC Technology Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 350,
+    "registeredName": "Ovation Networks, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 351,
+    "registeredName": "Setra Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 352,
+    "registeredName": "AVG Automation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 353,
+    "registeredName": "ZXC Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 354,
+    "registeredName": "Byte Sphere",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 355,
+    "registeredName": "Generiton Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 356,
+    "registeredName": "Holter Regelarmaturen GmbH \u0026 Co. KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 357,
+    "registeredName": "Bedford Instruments, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 358,
+    "registeredName": "Standair Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 359,
+    "registeredName": "WEG Automation - R\u0026D",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 360,
+    "registeredName": "Prolon Control Systems ApS",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 361,
+    "registeredName": "Inneasoft",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 362,
+    "registeredName": "ConneXSoft GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 363,
+    "registeredName": "CEAG Notlichtsysteme GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 364,
+    "registeredName": "Distech Controls Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 365,
+    "registeredName": "Industrial Technology Research Institute",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 366,
+    "registeredName": "ICONICS, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 367,
+    "registeredName": "IQ Controls s.c.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 368,
+    "registeredName": "OJ Electronics A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 369,
+    "registeredName": "Rolbit Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 370,
+    "registeredName": "Synapsys Solutions Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 371,
+    "registeredName": "ACME Engineering Prod. Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 372,
+    "registeredName": "Zener Electric Pty, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 373,
+    "registeredName": "Selectronix, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 374,
+    "registeredName": "Gorbet \u0026 Banerjee, LLC.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 375,
+    "registeredName": "IME",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 376,
+    "registeredName": "Stephen H. Dawson Computer Service",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 377,
+    "registeredName": "Accutrol, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 378,
+    "registeredName": "Schneider Elektronik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 379,
+    "registeredName": "Alpha-Inno Tec GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 380,
+    "registeredName": "ADMMicro, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 381,
+    "registeredName": "Greystone Energy Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 382,
+    "registeredName": "CAP Technologie",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 383,
+    "registeredName": "KeRo Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 384,
+    "registeredName": "Domat Control System s.r.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 385,
+    "registeredName": "Efektronics Pty. Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 386,
+    "registeredName": "Hekatron Vertriebs GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 387,
+    "registeredName": "Securiton AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 388,
+    "registeredName": "Carlo Gavazzi Controls SpA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 389,
+    "registeredName": "Chipkin Automation Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 390,
+    "registeredName": "Savant Systems, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 391,
+    "registeredName": "Simmtronic Lighting Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 392,
+    "registeredName": "Abelko Innovation AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 393,
+    "registeredName": "Seresco Technologies Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 394,
+    "registeredName": "IT Watchdogs",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 395,
+    "registeredName": "Automation Assist Japan Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 396,
+    "registeredName": "Thermokon Sensortechnik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 397,
+    "registeredName": "EGauge Systems, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 398,
+    "registeredName": "Quantum Automation (ASIA) PTE, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 399,
+    "registeredName": "Toshiba Lighting \u0026 Technology Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 400,
+    "registeredName": "SPIN Engenharia de Automa\u00C3\u00A7\u00C3\u00A3o Ltda.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 401,
+    "registeredName": "Logistics Systems \u0026 Software Services India PVT. Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 402,
+    "registeredName": "Delta Controls Integration Products",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 403,
+    "registeredName": "Focus Media",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 404,
+    "registeredName": "LUMEnergi Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 405,
+    "registeredName": "Kara Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 406,
+    "registeredName": "RF Code, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 407,
+    "registeredName": "Fatek Automation Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 408,
+    "registeredName": "JANDA Software Company, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 409,
+    "registeredName": "Open System Solutions Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 410,
+    "registeredName": "Intelec Systems PTY Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 411,
+    "registeredName": "Ecolodgix, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 412,
+    "registeredName": "Douglas Lighting Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 413,
+    "registeredName": "iSAtech GmbH intelligente Sensoren Aktoren technologie",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 414,
+    "registeredName": "AREAL",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 415,
+    "registeredName": "Beckhoff Automation GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 416,
+    "registeredName": "IPAS GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 417,
+    "registeredName": "KE2 Therm Solutions",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 418,
+    "registeredName": "Base2Products",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 419,
+    "registeredName": "DTL Controls, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 420,
+    "registeredName": "INNCOM International, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 421,
+    "registeredName": "BTR Netcom GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 422,
+    "registeredName": "Greentrol Automation, Inc",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 423,
+    "registeredName": "BELIMO Automation AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 424,
+    "registeredName": "Samsung Heavy Industries Co, Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 425,
+    "registeredName": "Triacta Power Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 426,
+    "registeredName": "Globestar Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 427,
+    "registeredName": "MLB Advanced Media, LP",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 428,
+    "registeredName": "SWG Stuckmann Wirtschaftliche Geb\u00C3\u00A4udesysteme GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 429,
+    "registeredName": "SensorSwitch",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 430,
+    "registeredName": "Multitek Power Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 431,
+    "registeredName": "Aquametro AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 432,
+    "registeredName": "LG Electronics Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 433,
+    "registeredName": "Electronic Theatre Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 434,
+    "registeredName": "Mitsubishi Electric Corporation Nagoya Works",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 435,
+    "registeredName": "Delta Electronics, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 436,
+    "registeredName": "Elma Kurtalj, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 437,
+    "registeredName": "ADT Fire and Security Sp. A.o.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 438,
+    "registeredName": "Nedap Security Management",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 439,
+    "registeredName": "ESC Automation Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 440,
+    "registeredName": "DSP4YOU Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 441,
+    "registeredName": "GE Sensing and Inspection Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 442,
+    "registeredName": "Embedded Systems SIA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 443,
+    "registeredName": "BEFEGA GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 444,
+    "registeredName": "Baseline Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 445,
+    "registeredName": "M2M Systems Integrators",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 446,
+    "registeredName": "OEMCtrl",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 447,
+    "registeredName": "Clarkson Controls Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 448,
+    "registeredName": "Rogerwell Control System Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 449,
+    "registeredName": "SCL Elements",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 450,
+    "registeredName": "Hitachi Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 451,
+    "registeredName": "Newron System SA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 452,
+    "registeredName": "BEVECO Gebouwautomatisering BV",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 453,
+    "registeredName": "Streamside Solutions",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 454,
+    "registeredName": "Yellowstone Soft",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 455,
+    "registeredName": "Oztech Intelligent Systems Pty Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 456,
+    "registeredName": "Novelan GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 457,
+    "registeredName": "Flexim Americas Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 458,
+    "registeredName": "ICP DAS Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 459,
+    "registeredName": "CARMA Industries Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 460,
+    "registeredName": "Log-One Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 461,
+    "registeredName": "TECO Electric \u0026 Machinery Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 462,
+    "registeredName": "ConnectEx, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 463,
+    "registeredName": "Turbo DDC Sudwest",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 464,
+    "registeredName": "Quatrosense Environmental Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 465,
+    "registeredName": "Fifth Light Technology Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 466,
+    "registeredName": "Scientific Solutions, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 467,
+    "registeredName": "Controller Area Network Solutions (M) Sdn Bhd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 468,
+    "registeredName": "RESOL - Elektronische Regelungen GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 469,
+    "registeredName": "RPBUS LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 470,
+    "registeredName": "BRS Sistemas Eletronicos",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 471,
+    "registeredName": "WindowMaster A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 472,
+    "registeredName": "Sunlux Technologies Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 473,
+    "registeredName": "Measurlogic",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 474,
+    "registeredName": "Frimat GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 475,
+    "registeredName": "Spirax Sarco",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 476,
+    "registeredName": "Luxtron",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 477,
+    "registeredName": "Raypak Inc",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 478,
+    "registeredName": "Air Monitor Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 479,
+    "registeredName": "Regler Och Webbteknik Sverige (ROWS)",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 480,
+    "registeredName": "Intelligent Lighting Controls Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 481,
+    "registeredName": "Sanyo Electric Industry Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 482,
+    "registeredName": "E-Mon Energy Monitoring Products",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 483,
+    "registeredName": "Digital Control Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 484,
+    "registeredName": "ATI Airtest Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 485,
+    "registeredName": "SCS SA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 486,
+    "registeredName": "HMS Industrial Networks AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 487,
+    "registeredName": "Shenzhen Universal Intellisys Co Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 488,
+    "registeredName": "EK Intellisys Sdn Bhd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 489,
+    "registeredName": "SysCom",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 490,
+    "registeredName": "Firecom, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 491,
+    "registeredName": "ESA Elektroschaltanlagen Grimma GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 492,
+    "registeredName": "Kumahira Co Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 493,
+    "registeredName": "Hotraco",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 494,
+    "registeredName": "SABO Elektronik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 495,
+    "registeredName": "Equip\u0027Trans",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 496,
+    "registeredName": "TCS Basys Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 497,
+    "registeredName": "FlowCon International A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 498,
+    "registeredName": "ThyssenKrupp Elevator Americas",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 499,
+    "registeredName": "Abatement Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 500,
+    "registeredName": "Continental Control Systems, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 501,
+    "registeredName": "WISAG Automatisierungstechnik GmbH \u0026 Co KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 502,
+    "registeredName": "EasyIO",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 503,
+    "registeredName": "EAP-Electric GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 504,
+    "registeredName": "Hardmeier",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 505,
+    "registeredName": "Mircom Group of Companies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 506,
+    "registeredName": "Quest Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 507,
+    "registeredName": "Mestek, Inc",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 508,
+    "registeredName": "Pulse Energy",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 509,
+    "registeredName": "Tachikawa Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 510,
+    "registeredName": "University of Nebraska-Lincoln",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 511,
+    "registeredName": "Redwood Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 512,
+    "registeredName": "PASStec Industrie-Elektronik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 513,
+    "registeredName": "NgEK, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 514,
+    "registeredName": "FAW Electronics Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 515,
+    "registeredName": "Jireh Energy Tech Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 516,
+    "registeredName": "Enlighted Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 517,
+    "registeredName": "El-Piast Sp. Z o.o",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 518,
+    "registeredName": "NetxAutomation Software GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 519,
+    "registeredName": "Invertek Drives",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 520,
+    "registeredName": "Deutschmann Automation GmbH \u0026 Co. KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 521,
+    "registeredName": "EMU Electronic AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 522,
+    "registeredName": "Phaedrus Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 523,
+    "registeredName": "Sigmatek GmbH \u0026 Co KG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 524,
+    "registeredName": "Marlin Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 525,
+    "registeredName": "Circutor, SA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 526,
+    "registeredName": "UTC Fire \u0026 Security",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 527,
+    "registeredName": "DENT Instruments, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 528,
+    "registeredName": "FHP Manufacturing Company - Bosch Group",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 529,
+    "registeredName": "GE Intelligent Platforms",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 530,
+    "registeredName": "Inner Range Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 531,
+    "registeredName": "GLAS Energy Technology",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 532,
+    "registeredName": "MSR-Electronic-GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 533,
+    "registeredName": "Energy Control Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 534,
+    "registeredName": "EMT Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 535,
+    "registeredName": "Daintree Networks Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 536,
+    "registeredName": "EURO ICC d.o.o",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 537,
+    "registeredName": "TE Connectivity Energy",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 538,
+    "registeredName": "GEZE GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 539,
+    "registeredName": "NEC Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 540,
+    "registeredName": "Ho Cheung International Company Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 541,
+    "registeredName": "Sharp Manufacturing Systems Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 542,
+    "registeredName": "DOT CONTROLS a.s.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 543,
+    "registeredName": "BeaconMed\u00E6s",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 544,
+    "registeredName": "Midea Commercial Aircon",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 545,
+    "registeredName": "WattMaster Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 546,
+    "registeredName": "Kamstrup A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 547,
+    "registeredName": "CA Computer Automation GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 548,
+    "registeredName": "Laars Heating Systems Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 549,
+    "registeredName": "Hitachi Systems, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 550,
+    "registeredName": "Fushan AKE Electronic Engineering Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 551,
+    "registeredName": "Toshiba International Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 552,
+    "registeredName": "Starman Systems, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 553,
+    "registeredName": "Samsung Techwin Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 554,
+    "registeredName": "ISAS-Integrated Switchgear and Systems P/L",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 556,
+    "registeredName": "Obvius",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 557,
+    "registeredName": "Marek Guzik",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 558,
+    "registeredName": "Vortek Instruments, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 559,
+    "registeredName": "Universal Lighting Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 560,
+    "registeredName": "Myers Power Products, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 561,
+    "registeredName": "Vector Controls GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 562,
+    "registeredName": "Crestron Electronics, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 563,
+    "registeredName": "A\u0026E Controls Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 564,
+    "registeredName": "Projektomontaza A.D.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 565,
+    "registeredName": "Freeaire Refrigeration",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 566,
+    "registeredName": "Aqua Cooler Pty Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 567,
+    "registeredName": "Basic Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 568,
+    "registeredName": "GE Measurement and Control Solutions Advanced Sensors",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 569,
+    "registeredName": "EQUAL Networks",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 570,
+    "registeredName": "Millennial Net",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 571,
+    "registeredName": "APLI Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 572,
+    "registeredName": "Electro Industries/GaugeTech",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 573,
+    "registeredName": "SangMyung University",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 574,
+    "registeredName": "Coppertree Analytics, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 575,
+    "registeredName": "CoreNetiX GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 576,
+    "registeredName": "Acutherm",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 577,
+    "registeredName": "Dr. Riedel Automatisierungstechnik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 578,
+    "registeredName": "Shina System Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 579,
+    "registeredName": "Iqapertus",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 580,
+    "registeredName": "PSE Technology",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 581,
+    "registeredName": "BA Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 582,
+    "registeredName": "BTICINO",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 583,
+    "registeredName": "Monico, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 584,
+    "registeredName": "iCue",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 585,
+    "registeredName": "tekmar Control Systems Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 586,
+    "registeredName": "Control Technology Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 587,
+    "registeredName": "GFAE GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 588,
+    "registeredName": "BeKa Software GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 589,
+    "registeredName": "Isoil Industria SpA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 590,
+    "registeredName": "Home Systems Consulting SpA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 591,
+    "registeredName": "Socomec",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 592,
+    "registeredName": "Everex Communications, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 593,
+    "registeredName": "Ceiec Electric Technology",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 594,
+    "registeredName": "Atrila GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 595,
+    "registeredName": "WingTechs",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 596,
+    "registeredName": "Shenzhen Mek Intellisys Pte Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 597,
+    "registeredName": "Nestfield Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 598,
+    "registeredName": "Swissphone Telecom AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 599,
+    "registeredName": "PNTECH JSC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 600,
+    "registeredName": "Horner APG, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 601,
+    "registeredName": "PVI Industries, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 602,
+    "registeredName": "Ela-compil",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 603,
+    "registeredName": "Pegasus Automation SDN BHD",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 604,
+    "registeredName": "Wight Electronic Services Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 605,
+    "registeredName": "Marcom",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 606,
+    "registeredName": "Exhausto A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 607,
+    "registeredName": "Dwyer Instruments, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 608,
+    "registeredName": "Link GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 609,
+    "registeredName": "Oppermann Regelgerate GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 610,
+    "registeredName": "NuAire, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 611,
+    "registeredName": "Nortec Humidity, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 612,
+    "registeredName": "Bigwood Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 613,
+    "registeredName": "Enbala Power Networks",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 614,
+    "registeredName": "Inter Energy Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 615,
+    "registeredName": "ETC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 616,
+    "registeredName": "COMELEC S.A.R.L",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 617,
+    "registeredName": "Pythia Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 618,
+    "registeredName": "TrendPoint Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 619,
+    "registeredName": "AWEX",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 620,
+    "registeredName": "Eurevia",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 621,
+    "registeredName": "Kongsberg E-lon AS",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 622,
+    "registeredName": "FlaktWoods",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 623,
+    "registeredName": "E \u002B E Elektronik GES M.B.H.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 624,
+    "registeredName": "ARC Informatique",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 625,
+    "registeredName": "SKIDATA AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 626,
+    "registeredName": "WSW Solutions",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 627,
+    "registeredName": "Trefon Electronic GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 628,
+    "registeredName": "Dongseo System",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 629,
+    "registeredName": "Kanontec Intelligence Technology Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 630,
+    "registeredName": "EVCO S.p.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 631,
+    "registeredName": "Accuenergy (CANADA) Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 632,
+    "registeredName": "SoftDEL",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 633,
+    "registeredName": "Orion Energy Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 634,
+    "registeredName": "Roboticsware",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 635,
+    "registeredName": "DOMIQ Sp. z o.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 636,
+    "registeredName": "Solidyne",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 637,
+    "registeredName": "Elecsys Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 638,
+    "registeredName": "Conditionaire International Pty. Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 639,
+    "registeredName": "Quebec, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 640,
+    "registeredName": "Homerun Holdings",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 641,
+    "registeredName": "RFM, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 642,
+    "registeredName": "Comptek",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 643,
+    "registeredName": "Westco Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 644,
+    "registeredName": "Advancis Software \u0026 Services GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 645,
+    "registeredName": "Intergrid, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 646,
+    "registeredName": "Markerr Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 647,
+    "registeredName": "Toshiba Elevator and Building Systems Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 648,
+    "registeredName": "Spectrum Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 649,
+    "registeredName": "Mkservice",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 650,
+    "registeredName": "Fox Thermal Instruments",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 651,
+    "registeredName": "SyxthSense Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 652,
+    "registeredName": "DUHA System S R.O.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 653,
+    "registeredName": "NIBE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 654,
+    "registeredName": "Melink Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 655,
+    "registeredName": "Fritz-Haber-Institut",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 656,
+    "registeredName": "MTU Onsite Energy GmbH, Gas Power Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 657,
+    "registeredName": "Omega Engineering, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 658,
+    "registeredName": "Avelon",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 659,
+    "registeredName": "Ywire Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 660,
+    "registeredName": "M.R. Engineering Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 661,
+    "registeredName": "Lochinvar, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 662,
+    "registeredName": "Sontay Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 663,
+    "registeredName": "GRUPA Slawomir Chelminski",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 664,
+    "registeredName": "Arch Meter Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 665,
+    "registeredName": "Senva, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 666,
+    "registeredName": "No Vendor 666",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 667,
+    "registeredName": "FM-Tec",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 668,
+    "registeredName": "Systems Specialists, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 669,
+    "registeredName": "SenseAir",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 670,
+    "registeredName": "AB IndustrieTechnik Srl",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 671,
+    "registeredName": "Cortland Research, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 672,
+    "registeredName": "MediaView",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 673,
+    "registeredName": "VDA Elettronica",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 674,
+    "registeredName": "CSS, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 675,
+    "registeredName": "Tek-Air Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 676,
+    "registeredName": "ICDT",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 677,
+    "registeredName": "The Armstrong Monitoring Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 678,
+    "registeredName": "DIXELL S.r.l",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 679,
+    "registeredName": "Lead System, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 680,
+    "registeredName": "ISM EuroCenter S.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 681,
+    "registeredName": "TDIS",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 682,
+    "registeredName": "Trade FIDES",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 683,
+    "registeredName": "Kn\u00FCrr GmbH (Emerson Network Power)",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 684,
+    "registeredName": "Resource Data Management",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 685,
+    "registeredName": "Abies Technology, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 686,
+    "registeredName": "Amalva",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 687,
+    "registeredName": "MIRAE Electrical Mfg. Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 688,
+    "registeredName": "HunterDouglas Architectural Projects Scandinavia ApS",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 689,
+    "registeredName": "RUNPAQ Group Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 690,
+    "registeredName": "Unicard SA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 691,
+    "registeredName": "IE Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 692,
+    "registeredName": "Ruskin Manufacturing",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 693,
+    "registeredName": "Calon Associates Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 694,
+    "registeredName": "Contec Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 695,
+    "registeredName": "iT GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 696,
+    "registeredName": "Autani Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 697,
+    "registeredName": "Christian Fortin",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 698,
+    "registeredName": "HDL",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 699,
+    "registeredName": "IPID Sp. Z.O.O Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 700,
+    "registeredName": "Fuji Electric Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 701,
+    "registeredName": "View, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 702,
+    "registeredName": "Samsung S1 Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 703,
+    "registeredName": "New Lift",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 704,
+    "registeredName": "VRT Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 705,
+    "registeredName": "Motion Control Engineering, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 706,
+    "registeredName": "Weiss Klimatechnik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 707,
+    "registeredName": "Elkon",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 708,
+    "registeredName": "Eliwell Controls S.r.l.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 709,
+    "registeredName": "Japan Computer Technos Corp",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 710,
+    "registeredName": "Rational Network ehf",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 711,
+    "registeredName": "Magnum Energy Solutions, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 712,
+    "registeredName": "MelRok",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 713,
+    "registeredName": "VAE Group",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 714,
+    "registeredName": "LGCNS",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 715,
+    "registeredName": "Berghof Automationstechnik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 716,
+    "registeredName": "Quark Communications, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 717,
+    "registeredName": "Sontex",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 718,
+    "registeredName": "mivune AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 719,
+    "registeredName": "Panduit",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 720,
+    "registeredName": "Smart Controls, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 721,
+    "registeredName": "Compu-Aire, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 722,
+    "registeredName": "Sierra",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 723,
+    "registeredName": "ProtoSense Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 724,
+    "registeredName": "Eltrac Technologies Pvt Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 725,
+    "registeredName": "Bektas Invisible Controls GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 726,
+    "registeredName": "Entelec",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 727,
+    "registeredName": "Innexiv",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 728,
+    "registeredName": "Covenant",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 729,
+    "registeredName": "Davitor AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 730,
+    "registeredName": "TongFang Technovator",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 731,
+    "registeredName": "Building Robotics, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 732,
+    "registeredName": "HSS-MSR UG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 733,
+    "registeredName": "FramTack LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 734,
+    "registeredName": "B. L. Acoustics, Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 735,
+    "registeredName": "Traxxon Rock Drills, Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 736,
+    "registeredName": "Franke",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 737,
+    "registeredName": "Wurm GmbH \u0026 Co",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 738,
+    "registeredName": "AddENERGIE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 739,
+    "registeredName": "Mirle Automation Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 740,
+    "registeredName": "Ibis Networks",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 741,
+    "registeredName": "ID-KARTA s.r.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 742,
+    "registeredName": "Anaren, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 743,
+    "registeredName": "Span, Incorporated",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 744,
+    "registeredName": "Bosch Thermotechnology Corp",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 745,
+    "registeredName": "DRC Technology S.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 746,
+    "registeredName": "Shanghai Energy Building Technology Co, Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 747,
+    "registeredName": "Fraport AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 748,
+    "registeredName": "Flowgroup",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 749,
+    "registeredName": "Skytron Energy, GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 750,
+    "registeredName": "ALTEL Wicha, Golda Sp. J.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 751,
+    "registeredName": "Drupal",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 752,
+    "registeredName": "Axiomatic Technology, Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 753,
+    "registeredName": "Bohnke \u002B Partner",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 754,
+    "registeredName": "Function 1",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 755,
+    "registeredName": "Optergy Pty, Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 756,
+    "registeredName": "LSI Virticus",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 757,
+    "registeredName": "Konzeptpark GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 758,
+    "registeredName": "Hubbell Building Automation, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 759,
+    "registeredName": "eCurv, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 760,
+    "registeredName": "Agnosys GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 761,
+    "registeredName": "Shanghai Sunfull Automation Co., LTD",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 762,
+    "registeredName": "Kurz Instruments, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 763,
+    "registeredName": "Cias Elettronica S.r.l.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 764,
+    "registeredName": "Multiaqua, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 765,
+    "registeredName": "BlueBox",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 766,
+    "registeredName": "Sensidyne",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 767,
+    "registeredName": "Viessmann Elektronik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 768,
+    "registeredName": "ADFweb.com srl",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 769,
+    "registeredName": "Gaylord Industries",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 770,
+    "registeredName": "Majur Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 771,
+    "registeredName": "Shanghai Huilin Technology Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 772,
+    "registeredName": "Exotronic",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 773,
+    "registeredName": "Safecontrol spol s.r.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 774,
+    "registeredName": "Amatis",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 775,
+    "registeredName": "Universal Electric Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 776,
+    "registeredName": "iBACnet",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 778,
+    "registeredName": "Smartrise Engineering, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 779,
+    "registeredName": "Miratron, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 780,
+    "registeredName": "SmartEdge",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 781,
+    "registeredName": "Mitsubishi Electric Australia Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 782,
+    "registeredName": "Triangle Research International Ptd Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 783,
+    "registeredName": "Produal Oy",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 784,
+    "registeredName": "Milestone Systems A/S",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 785,
+    "registeredName": "Trustbridge",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 786,
+    "registeredName": "Feedback Solutions",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 787,
+    "registeredName": "IES",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 788,
+    "registeredName": "GE Critical Power",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 789,
+    "registeredName": "Riptide",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 792,
+    "registeredName": "MechoSystems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 793,
+    "registeredName": "evon GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 794,
+    "registeredName": "CS Lab GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 795,
+    "registeredName": "8760 Enterprises, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 796,
+    "registeredName": "Touche Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 797,
+    "registeredName": "Ontrol Teknik Malzeme San. ve Tic. A.S.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 798,
+    "registeredName": "Uni Control System Sp. Z o.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 799,
+    "registeredName": "Weihai Ploumeter Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 800,
+    "registeredName": "Elcom International Pvt. Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 801,
+    "registeredName": "Philips Lighting",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 802,
+    "registeredName": "AutomationDirect",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 803,
+    "registeredName": "Paragon Robotics",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 804,
+    "registeredName": "SMT System \u0026 Modules Technology AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 805,
+    "registeredName": "OS Technology Service and Trading Co., LTD",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 806,
+    "registeredName": "CMR Controls Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 807,
+    "registeredName": "Innovari, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 808,
+    "registeredName": "ABB Control Products",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 809,
+    "registeredName": "Gesellschaft fur Geb\u00E4udeautomation mbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 810,
+    "registeredName": "RODI Systems Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 811,
+    "registeredName": "Nextek Power Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 812,
+    "registeredName": "Creative Lighting",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 813,
+    "registeredName": "WaterFurnace International",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 814,
+    "registeredName": "Mercury Security",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 815,
+    "registeredName": "Hisense (Shandong) Air-Conditioning Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 816,
+    "registeredName": "Layered Solutions, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 817,
+    "registeredName": "Leegood Automatic System, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 818,
+    "registeredName": "Shanghai Restar Technology Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 819,
+    "registeredName": "Reimann Ingenieurb\u00FCro",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 820,
+    "registeredName": "LynTec",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 821,
+    "registeredName": "HTP",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 822,
+    "registeredName": "Elkor Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 823,
+    "registeredName": "Bentrol Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 824,
+    "registeredName": "Team-Control Oy",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 825,
+    "registeredName": "NextDevice, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 826,
+    "registeredName": "GLOBAL CONTROL 5 Sp. z o.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 827,
+    "registeredName": "King I Electronics Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 828,
+    "registeredName": "SAMDAV",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 829,
+    "registeredName": "Next Gen Industries Pvt. Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 830,
+    "registeredName": "Entic LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 831,
+    "registeredName": "ETAP",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 832,
+    "registeredName": "Moralle Electronics Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 833,
+    "registeredName": "Leicom AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 834,
+    "registeredName": "Watts Regulator Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 835,
+    "registeredName": "S.C. Orbtronics S.R.L.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 836,
+    "registeredName": "Gaussan Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 837,
+    "registeredName": "WEBfactory GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 838,
+    "registeredName": "Ocean Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 839,
+    "registeredName": "Messana  Air-Ray Conditioning s.r.l.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 840,
+    "registeredName": "Hangzhou BATOWN Technology Co. Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 841,
+    "registeredName": "Reasonable Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 842,
+    "registeredName": "Servisys, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 843,
+    "registeredName": "halstrup-walcher GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 844,
+    "registeredName": "SWG Automation Fuzhou Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 845,
+    "registeredName": "KSB Aktiengesellschaft",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 846,
+    "registeredName": "Hybryd Sp. z o.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 847,
+    "registeredName": "Helvatron AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 848,
+    "registeredName": "Oderon Sp. Z.O.O.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 849,
+    "registeredName": "miko",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 850,
+    "registeredName": "Exodraft",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 851,
+    "registeredName": "Hochhuth GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 852,
+    "registeredName": "Integrated System Technologies Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 853,
+    "registeredName": "Shanghai Cellcons Controls Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 854,
+    "registeredName": "Emme Controls, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 855,
+    "registeredName": "Field Diagnostic Services, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 856,
+    "registeredName": "Ges Teknik A.S.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 857,
+    "registeredName": "Global Power Products, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 858,
+    "registeredName": "Option NV",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 859,
+    "registeredName": "BV-Control AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 860,
+    "registeredName": "Sigren Engineering AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 861,
+    "registeredName": "Shanghai Jaltone Technology Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 862,
+    "registeredName": "MaxLine Solutions Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 863,
+    "registeredName": "Kron Instrumentos El\u00E9tricos Ltda",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 864,
+    "registeredName": "Thermo Matrix",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 865,
+    "registeredName": "Infinite Automation Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 866,
+    "registeredName": "Vantage",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 867,
+    "registeredName": "Elecon Measurements Pvt Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 868,
+    "registeredName": "TBA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 869,
+    "registeredName": "Carnes Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 870,
+    "registeredName": "Harman Professional",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 871,
+    "registeredName": "Nenutec Asia Pacific Pte Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 872,
+    "registeredName": "Gia NV",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 873,
+    "registeredName": "Kepware Tehnologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 874,
+    "registeredName": "Temperature Electronics Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 875,
+    "registeredName": "Packet Power",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 876,
+    "registeredName": "Project Haystack Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 877,
+    "registeredName": "DEOS Controls Americas Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 878,
+    "registeredName": "Senseware Inc",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 879,
+    "registeredName": "MST Systemtechnik AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 880,
+    "registeredName": "Lonix Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 881,
+    "registeredName": "GMC-I Messtechnik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 882,
+    "registeredName": "Aviosys International Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 883,
+    "registeredName": "Efficient Building Automation Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 894,
+    "registeredName": "Candi Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 908,
+    "registeredName": "Echelon",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 909,
+    "registeredName": "Intellimeter Canada, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 910,
+    "registeredName": "Bithouse Oy",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 911,
+    "registeredName": "Reserved for ASHRAE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 912,
+    "registeredName": "BuildPulse",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 913,
+    "registeredName": "Shenzhen 1000 Building Automation Co. Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 914,
+    "registeredName": "AED Engineering GmbH    Nicole Wenzel   Taunusstr. 51",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 915,
+    "registeredName": "G\u00FCntner GmbH \u0026 Co. KG   Markus Jabs Hans-G\u00FCntner-Stra\u00DFe 2-6",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 916,
+    "registeredName": "KNXlogic    Christof De Backere Beisbroekdreef 18",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 917,
+    "registeredName": "CIM Environmental Group Colin Cullinan  Level 7, 1 Alfred Street",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 918,
+    "registeredName": "Flow Control    Paul Kearney    PO Box 848 18715 141st Ave NE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 919,
+    "registeredName": "Lumen Cache, Inc.   Derek Cowburn   13402 Chrisfield Lane",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 920,
+    "registeredName": "Ecosystem   Louis-Philippe Rose Delta 3 Building 2875 Laurier Blvd, Ste 950",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 921,
+    "registeredName": "Potter Electric Signal Company, LLC Jeff Hendrickson    5757 Phantom Drive, Suite 125",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 922,
+    "registeredName": "Tyco Fire \u0026 Security S.p.A. Alessio Di Gioia    Viale dell \u0027Innovazione, 3",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 923,
+    "registeredName": "Watanabe Electric Industry Co., Ltd.    Tomonari Hiraizumi  16-19, 6-chome, Jingumae",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 924,
+    "registeredName": "Causam Energy   Tom Gordon  9208 Falls of Neuse Road, Suite 215",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 925,
+    "registeredName": "W-tec AG    Ela Sibilska    Dornbachstra\u00DFe 1a",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 926,
+    "registeredName": "IMI Hydronic Engineering International SA   Jean-Christophe Carette Terre-Bonne Business Park, Bat Z2 Route de Crassier 19",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 927,
+    "registeredName": "ARIGO Software  Dirk Brinkmann  Osnabr\u00FCcker Str. 1b",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 928,
+    "registeredName": "MSA Safety  Chris Starta    1000 Cranberry Woods Drive",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 929,
+    "registeredName": "Smart Solucoes Ltda - MERCATO   Eduardo Ricalde Rua Capistrano de Abreu, 89 Bairro Niter\u00F3i",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 930,
+    "registeredName": "PIATRA Engineering  Peter Kalt  48 Union Street",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 931,
+    "registeredName": "ODIN Automation Systems, LLC    Erik Maseng 2 Townsend W, Unit 2",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 932,
+    "registeredName": "Belparts NV Ludwig De Locht Wingepark 4",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 933,
+    "registeredName": "UAB, SALDA  Andrius Tamasauskis Ragain\u0117s str. 100",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 934,
+    "registeredName": "Alre-IT Regeltechnik GmbH   Klaus Lorenz    Richard-Tauber-Damm 10",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 935,
+    "registeredName": "Ingenieurb\u00FCro H. Lertes GmbH \u0026 Co. KG   Hermann Lertes  Georg-Treber-Str. 27",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 936,
+    "registeredName": "Breathing Buildings Shaun Fitzgerald    The Courtyard 15 Sturton Street",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 937,
+    "registeredName": "eWON SA Pierre Crokaert Av. Robert Schuman 22",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 938,
+    "registeredName": "Cav. Uff. Giacomo Cimberio S.p.A    Tiziano Guidetti    San Maurizio d\u0027Opaglio, 28017",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 939,
+    "registeredName": "PKE Electronics AG  Erich Weber Computerstra\u00DFe 6,",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 940,
+    "registeredName": "Allen   Alan Davis  2100 Kramer Lane Suite 250",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 941,
+    "registeredName": "Kastle Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 942,
+    "registeredName": "Logical Electro-Mechanical (EM) Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 943,
+    "registeredName": "ppKinetics Instruments LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 944,
+    "registeredName": "Cathexis Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 945,
+    "registeredName": "Sylop Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 946,
+    "registeredName": "Brauns Control GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 947,
+    "registeredName": "Omron Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 948,
+    "registeredName": "Wildeboer Bauteile",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 949,
+    "registeredName": "Shanghai Biens Technologies Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 950,
+    "registeredName": "Beijing HZHY Technology Co., Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 951,
+    "registeredName": "Building Clouds",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 952,
+    "registeredName": "The University of Sheffield-Department of Electronic and Electrical Engineering",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 953,
+    "registeredName": "Fabtronics Australia Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 954,
+    "registeredName": "SLAT",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 955,
+    "registeredName": "Software Motor Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 956,
+    "registeredName": "Armstrong International Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 957,
+    "registeredName": "Steril-Aire, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 958,
+    "registeredName": "Infinique",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 959,
+    "registeredName": "Arcom",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 960,
+    "registeredName": "Argo Performance, Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 961,
+    "registeredName": "Dialight",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 962,
+    "registeredName": "Ideal Technical Solutions",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 963,
+    "registeredName": "Neurobat AG Geert Hoevenaars    Altenburgerstrasse 49",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 964,
+    "registeredName": "Neyer Software Consulting LLC   Jack Neyer  6534 Dalzell Place",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 965,
+    "registeredName": "SCADA Technology Development Co., Ltd.  Pradit Kaewart  224/164 Saimai Road",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 966,
+    "registeredName": "Demand Logic Limited    Tom Randall Here East International Broadcast Centre",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 967,
+    "registeredName": "GWA Group Limited   Boris Napernikov    7 Eagleview Place",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 968,
+    "registeredName": "Occitaline  Daniel Zotti    13 rue Antoine de Lavoisier",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 969,
+    "registeredName": "NAO Digital Co., Ltd.   Seungman Lee    1106, Kolon Digital Tower, Digital-ro 32gil 30,",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 970,
+    "registeredName": "Shenzhen Chanslink Network Technology Co., Ltd. Honggang Fu 16G, Block B, Reith International Yanhe North Road",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 971,
+    "registeredName": "Samsung Electronics Co., Ltd.   Kihwan Cho  129, Samsung-ro, Yeongtong-gu",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 972,
+    "registeredName": "Mesa Laboratories, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 973,
+    "registeredName": "Fischer Lars Elling Am Hagelkreuz 3a",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 974,
+    "registeredName": "OpSys Solutions Ltd.    Brad Lonergan   Level 5, 3 Ferncroft Street",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 975,
+    "registeredName": "Advanced Devices Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 976,
+    "registeredName": "Condair",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 977,
+    "registeredName": "INELCOM Ingenieria Electronica Comercial S.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 978,
+    "registeredName": "GridPoint, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 979,
+    "registeredName": "ADF Technologies Sdn Bhd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 980,
+    "registeredName": "EPM, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 981,
+    "registeredName": "Lighting Controls Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 982,
+    "registeredName": "Perix Controls Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 983,
+    "registeredName": "AERCO International, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 984,
+    "registeredName": "KONE Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 985,
+    "registeredName": "Ziehl-Abegg SE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 986,
+    "registeredName": "Robot, S.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 987,
+    "registeredName": "Optigo Networks, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 988,
+    "registeredName": "Openmotics BVBA",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 989,
+    "registeredName": "Metropolitan Industries, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 990,
+    "registeredName": "Huawei Technologies Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 991,
+    "registeredName": "OSRAM Sylvania, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 992,
+    "registeredName": "Vanti",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 993,
+    "registeredName": "Cree, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 994,
+    "registeredName": "Richmond Heights SDN BHD",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 995,
+    "registeredName": "Payne-Sparkman Lighting Mangement",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 996,
+    "registeredName": "Ashcroft",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 997,
+    "registeredName": "Jet Controls Corp",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 998,
+    "registeredName": "Zumtobel Lighting GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 999,
+    "registeredName": "Reserved for ASHRAE",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1000,
+    "registeredName": "Ekon GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1001,
+    "registeredName": "Molex",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1002,
+    "registeredName": "Maco Lighting Pty Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1003,
+    "registeredName": "Axecon Corp.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1004,
+    "registeredName": "Tensor plc",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1005,
+    "registeredName": "Kaseman Environmental Control Equipment (Shanghai) Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1006,
+    "registeredName": "AB Axis Industries",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1007,
+    "registeredName": "Netix Controls",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1008,
+    "registeredName": "Eldridge Products, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1009,
+    "registeredName": "Micronics",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1010,
+    "registeredName": "Fortecho Solutions Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1011,
+    "registeredName": "Sellers Manufacturing Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1012,
+    "registeredName": "Rite-Hite Doors, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1013,
+    "registeredName": "Violet Defense LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1014,
+    "registeredName": "Simna",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1015,
+    "registeredName": "Multi-\u00C9nergie Best Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1016,
+    "registeredName": "Mega System Technologies, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1017,
+    "registeredName": "Rheem",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1018,
+    "registeredName": "Ing. Punzenberger COPA-DATA GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1019,
+    "registeredName": "MEC Electronics GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1020,
+    "registeredName": "Taco Comfort Solutions",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1021,
+    "registeredName": "Alexander Maier GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1022,
+    "registeredName": "Ecorithm, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1023,
+    "registeredName": "Accurro Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1024,
+    "registeredName": "ROMTECK Australia Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1025,
+    "registeredName": "Splash Monitoring Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1026,
+    "registeredName": "Light Application",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1027,
+    "registeredName": "Logical Building Automation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1028,
+    "registeredName": "Exilight Oy",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1029,
+    "registeredName": "Hager Electro SAS",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1030,
+    "registeredName": "KLIF Co., LTD",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1031,
+    "registeredName": "HygroMatik",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1032,
+    "registeredName": "Daniel Mousseau Programmation \u0026 Electronique",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1033,
+    "registeredName": "Aerionics Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1034,
+    "registeredName": "M2S Electronique Ltee",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1035,
+    "registeredName": "Automation Components, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1036,
+    "registeredName": "Niobrara Research \u0026 Development Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1037,
+    "registeredName": "Netcom Sicherheitstechnik GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1038,
+    "registeredName": "Lumel S.A.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1039,
+    "registeredName": "Great Plains Industries, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1040,
+    "registeredName": "Domotica Labs S.R.L",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1041,
+    "registeredName": "Energy Cloud, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1042,
+    "registeredName": "Vomatec",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1043,
+    "registeredName": "Demma Companies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1044,
+    "registeredName": "Valsena",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1045,
+    "registeredName": "Comsys B\u00E4rtsch AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1046,
+    "registeredName": "bGrid",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1047,
+    "registeredName": "MDJ Software Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1048,
+    "registeredName": "Dimonoff, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1049,
+    "registeredName": "Edomo Systems, GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1050,
+    "registeredName": "Effektiv, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1051,
+    "registeredName": "SteamOVap",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1052,
+    "registeredName": "grandcentrix GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1053,
+    "registeredName": "Weintek Labs, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1054,
+    "registeredName": "Intefox GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1055,
+    "registeredName": "Radius22 Automation Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1056,
+    "registeredName": "Ringdale, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1057,
+    "registeredName": "Iwaki America",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1058,
+    "registeredName": "Bractlet",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1059,
+    "registeredName": "STULZ Air Technology Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1060,
+    "registeredName": "Climate Ready Engineering",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1061,
+    "registeredName": "Genea Energy Partners",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1062,
+    "registeredName": "IoTall Chile",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1063,
+    "registeredName": "IKS Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1064,
+    "registeredName": "Yodiwo AB",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1065,
+    "registeredName": "TITAN electronic GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1066,
+    "registeredName": "IDEC Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1067,
+    "registeredName": "SIFRI SL",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1068,
+    "registeredName": "Thermal Gas Systems Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1069,
+    "registeredName": "Building Automation Products, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1070,
+    "registeredName": "Asset Mapping",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1071,
+    "registeredName": "Smarteh Company",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1072,
+    "registeredName": "Datapod Australia Pty Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1073,
+    "registeredName": "Buildings Alive Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1074,
+    "registeredName": "Digital Elektronik",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1075,
+    "registeredName": "Talent Automa\u00E7\u00E3o e Tecnologia Ltda",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1076,
+    "registeredName": "Norposh Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1077,
+    "registeredName": "Merkur Funksysteme AG",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1078,
+    "registeredName": "Faster CZ spol. S.r.o",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1079,
+    "registeredName": "Eco-Adapt",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1080,
+    "registeredName": "Energocentrum Plus, s.r.o",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1081,
+    "registeredName": "amBX UK Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1082,
+    "registeredName": "Western Reserve Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1083,
+    "registeredName": "LayerZero Power Systems, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1084,
+    "registeredName": "CIC Jan H\u0159ebec s.r.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1085,
+    "registeredName": "Sigrov BV",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1086,
+    "registeredName": "ISYS-Intelligent Systems",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1087,
+    "registeredName": "Gas Detection (Australia) Pty Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1088,
+    "registeredName": "Kinco Automation (Shanghai) Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1089,
+    "registeredName": "Lars Energy, LLC",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1090,
+    "registeredName": "Flamefast (UK) Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1091,
+    "registeredName": "Royal Service Air Conditioning",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1092,
+    "registeredName": "Ampio Sp. Z o.o.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1093,
+    "registeredName": "Inovonics Wireless Corporation",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1094,
+    "registeredName": "Nvent Thermal Management",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1095,
+    "registeredName": "Sinowell Control System Ltd",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1096,
+    "registeredName": "Moxa Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1097,
+    "registeredName": "Matrix iControl SDN BHD",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1098,
+    "registeredName": "PurpleSwift",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1099,
+    "registeredName": "OTIM Technologies",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1100,
+    "registeredName": "FlowMate Limited",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1101,
+    "registeredName": "Degree Controls, Inc.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1102,
+    "registeredName": "Fei Xing (Shanghai) Software Technologies Co., Ltd.",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1103,
+    "registeredName": "Berg GmbH",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1104,
+    "registeredName": "ARENZ.IT",
+    "associatedNames": []
+  },
+  {
+    "vendorID": 1105,
+    "registeredName": "Edelstrom Electronic Devices \u0026 Designing LLC",
+    "associatedNames": []
+  }
+]
